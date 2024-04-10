@@ -1,4 +1,4 @@
-### Olá, eu sou Kauan Gomes!🐈‍⬛
+### Olá, eu sou Kauan Gomes! 🐈‍⬛
 Seja bem vindo ao meu Github (Ipseitycode).
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipseitycode&show_icons=true&theme=dracula)
