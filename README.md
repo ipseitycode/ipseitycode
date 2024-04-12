@@ -24,7 +24,7 @@
 
 ### Sobre o meu trabalho:
 <div><br/>
- <p>- Faço estagio na busQe Brasil.<p>
+ <p>- Trabalho e adquiro experiencia <br/>na busQe Brasil.<p>
  <img height="150" align="center" alt="bootstrap" src="https://i.pinimg.com/736x/75/19/8f/75198fac7f3c02d67b14aeebbbe4e65f.jpg" />
  <p>- Estou atualmente atuando no backend.<br/> 
  - Trabalho em consenso com a equipe busQe.<br/>
