@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu Github (Ipseitycode).
+### Seja bem vindo ao meu Github (Ipseitycode). 
 <h4>Ola, eu sou Kauan Gomes! 🐈‍⬛<br/>Aqui voce pode acompanhar o meu trabalho, commits<br/> e minha evolucao como web developer.</h4>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
