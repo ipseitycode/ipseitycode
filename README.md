@@ -1,5 +1,5 @@
-### Seja bem vindo ao meu Github (Ipseitycode). 
-<h4>Ola, eu sou Kauan Gomes! 🧙🏻‍♂️<br/>Aqui voce pode acompanhar o meu trabalho, commits e minha <br/>evolucao como desenvolvedor.</h4>
+### Seja bem vindo ao meu Github (Ipseitycode). 🧙🏻‍♂️
+<h4>Aqui voce pode acompanhar o meu trabalho, commits e minha <br/>evolucao como desenvolvedor.</h4>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipseitycode&show_icons=true&theme=dracula)
@@ -39,6 +39,7 @@
 <h4>Agradeco por ter visitado meu Github!<br/>
 (Volte sempre).</h4>
 <h6>Alguma duvida?<br/>
+ Gostou do que viu?<br/>
  Me envie seu feedback ⬇️</h6>
 <div style="display: inline-block;">
   <a href="mailto:cauandeveloper@gmail.com">
