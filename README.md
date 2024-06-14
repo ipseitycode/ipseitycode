@@ -1,5 +1,5 @@
-### Seja bem vindo ao meu Github (Ipseitycode). 🧙🏻‍♂️
-<h4>Aqui voce pode acompanhar o meu trabalho, commits e minha <br/>evolucao como desenvolvedor.</h4>
+### Seja bem vindo ao meu Github (ipseitycode). 
+<h4>Aqui voce pode acompanhar meus commits, repositories, storys e minha <br/>evolucao como desenvolvedor. 🚀</h4>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipseitycode&show_icons=true&theme=dracula)
@@ -26,17 +26,13 @@
 <div><br/>
  <p>- Trabalho e adquiro experiencia <br/>na busQe Brasil.<p>
  <img height="150" align="center" alt="bootstrap" src="https://i.pinimg.com/736x/75/19/8f/75198fac7f3c02d67b14aeebbbe4e65f.jpg" />
- <p>- Estou atualmente atuando no desenvolvimento web.<br/> 
- - Trabalho em consenso com a equipe busQe.<br/>
- - Sou um desenvolvedor junior.<br/>
- - Trabalho sob orientacao de um desenvolvedor senior.</p>
 </div>
 
 ### Projetos e aplicacoes:
 <h6>Em breve estarei disponibilizando meus projetos pessoais, fica esperto(a)! 👀</h6>
 
 ### FIM.
-<h4>Agradeco por ter visitado meu Github!<br/>
+<h4>Agradeco por ter visitado meu Git!<br/>
 (Volte sempre).</h4>
 <h6>Alguma duvida?<br/>
  Gostou do que viu?<br/>
