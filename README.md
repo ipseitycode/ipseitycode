@@ -43,7 +43,6 @@
 ### Fim.
 <h4>Agradeco por ter visitado meu Git!<br/>
 (Volte sempre).</h4>
-<img align="center" alt="meme" src="https://i.pinimg.com/736x/74/44/c2/7444c225ba953a1868e15ea54b386b7f.jpg" />
 <h6>Alguma duvida?<br/>
  Gostou do que viu?<br/>
  Me envie seu feedback ⬇️</h6>
