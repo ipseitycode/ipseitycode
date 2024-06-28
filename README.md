@@ -23,6 +23,13 @@
     <img align="center" alt="sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </div>
 
+### Estudando:
+<div style="display: flex; gap: 5px;">
+    <img align="center" alt="mariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img align="center" alt="" src="" />
+</div>
+
 ### Sobre o meu trabalho:
 <div><br/>
  <p>- Trabalhando e em processo de formacao <br/>na busQe Brasil.<p>
