@@ -32,8 +32,8 @@
 
 ### Sobre o meu trabalho:
 <div><br/>
- <img height="150" align="center" alt="bootstrap" src="https://i.pinimg.com/736x/75/19/8f/75198fac7f3c02d67b14aeebbbe4e65f.jpg" />
  <p>- Desenvolvedor na busQe Brasil.<p>
+ <img height="150" align="center" alt="bootstrap" src="https://i.pinimg.com/736x/75/19/8f/75198fac7f3c02d67b14aeebbbe4e65f.jpg" />
  <p>- Operando em desenvolvimento web.<p>
 </div>
 
