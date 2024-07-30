@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu Github (ipseitycode). 🧙🏼‍♂️ 
+### Seja bem vindo ao meu Github (ipseitycode). 
 <h4>Aqui voce pode acompanhar meus commits, repositories, storys e minha <br/>evolucao.</h4>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
@@ -23,7 +23,7 @@
     <img align="center" alt="sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </div>
 
-### Estudando:
+### Explorando:
 <div style="display: flex; gap: 5px;">
     <img align="center" alt="mariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -32,13 +32,13 @@
 
 ### Sobre o meu trabalho:
 <div><br/>
- <p>- Trabalhando e em processo de formacao <br/>na busQe Brasil.<p>
  <img height="150" align="center" alt="bootstrap" src="https://i.pinimg.com/736x/75/19/8f/75198fac7f3c02d67b14aeebbbe4e65f.jpg" />
+ <p>- Desenvolvedor na busQe Brasil.<p>
  <p>- Operando em desenvolvimento web.<p>
 </div>
 
-### Projetos e aplicacoes:
-<h6>Em breve estarei disponibilizando meus projetos pessoais, fica esperto(a)! 👀</h6>
+### Aplicacoes:
+<h6>Em breve, fica esperto(a)! 👀</h6>
 
 ### Fim.
 <h4>Agradeco por ter visitado meu Git!<br/>
