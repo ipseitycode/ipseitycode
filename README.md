@@ -40,13 +40,12 @@
 ### Aplicacoes:
 <h6>Em breve, fica esperto(a)! 👀</h6>
 
-### Fim.
-<h4>Agradeco por ter visitado meu Git!<br/>
-(Volte sempre).</h4>
-<h6>Alguma duvida?<br/>
- Gostou do que viu?<br/>
+<hr />
  Me envie seu feedback ⬇️</h6>
 <div style="display: inline-block;">
+ <a href="mailto:https://www.linkedin.com/in/cauan-gomes-aa40622ba/">
+    <img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:cauandeveloper@gmail.com">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
