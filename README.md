@@ -12,7 +12,6 @@
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipseitycode&show_icons=true&theme=dracula)<br/>
 <hr />
-<h3>Redes vizinhas</h3>
 <div style="display: inline-block;">
   <a href="https://www.youtube.com/@IpseityCode">
     <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
