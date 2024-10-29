@@ -16,20 +16,6 @@
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin: 0 8px 8px 0;" />
 </div>
 
-### IDE's que eu utilizo:
-<div style="display: flex; gap: 5px;">
-    <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-    <img align="center" alt="sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-</div>
-
-### Explorando:
-<div style="display: flex; gap: 5px;">
-    <img align="center" alt="mariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="" src="" />
-</div>
-
 ### Sobre o meu trabalho:
 <div><br/>
  <p>- Desenvolvedor na busQe Brasil.<p>
@@ -37,12 +23,11 @@
  <p>- Operando em desenvolvimento web.<p>
 </div>
 
-### Aplicacoes:
-<h6>Em breve, fica esperto(a)! 👀</h6>
-
 <hr />
- Me envie seu feedback ⬇️</h6>
 <div style="display: inline-block;">
+  <a href="https://www.youtube.com/@IpseityCode">
+    <img align="center" alt="gmail" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/cauan-gomes-aa40622ba/">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
