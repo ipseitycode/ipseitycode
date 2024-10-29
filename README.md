@@ -43,7 +43,7 @@
 <hr />
  Me envie seu feedback ⬇️</h6>
 <div style="display: inline-block;">
- <a href="mailto:https://www.linkedin.com/in/cauan-gomes-aa40622ba/">
+  <a href="https://www.linkedin.com/in/cauan-gomes-aa40622ba/">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cauandeveloper@gmail.com">
