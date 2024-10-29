@@ -1,5 +1,5 @@
 ### Seja bem vindo ao meu Github (ipseitycode). 
-<h4>Aqui voce pode acompanhar meus commits, repositories,<br/> storys e meus status<h4/>
+<h4>Acompanhe meu progresso: commits, repositories,<br/> storys e status disponiveis aqui.<h4/>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="35" width="35" src="https://github.com/user-attachments/assets/5c2c57ef-abff-4744-a2d9-a763538bd155">
@@ -11,9 +11,8 @@
 </div><br>
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipseitycode&show_icons=true&theme=dracula)<br/>
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 <hr />
+<h3>Redes vizinhas</h3>
 <div style="display: inline-block;">
   <a href="https://www.youtube.com/@IpseityCode">
     <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
