@@ -19,7 +19,7 @@ Explore meus repositories para acompanhar meus projetos e ver de perto meus comm
   <a href="https://www.linkedin.com/in/cauan-gomes-aa40622ba/">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="malito:cauandeveloper@gmail.com">
+  <a href="mailto:cauandeveloper@gmail.com">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 </div>
