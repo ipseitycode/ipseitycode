@@ -15,6 +15,9 @@ Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse per
 
 <hr />
 <div style="display: inline-block;">
+  <a href="https://www.instagram.com/_kauangmss/">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://www.youtube.com/@IpseityCode">
     <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
