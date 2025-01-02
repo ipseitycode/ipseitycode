@@ -24,8 +24,8 @@ Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse per
   <a href="https://www.linkedin.com/in/cauan-gomes-aa40622ba/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:cauandeveloper@gmail.com" target="_blank">
-    <img alt="gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:cauandeveloper@gmail.com">
+    <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 </div>
 
