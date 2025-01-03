@@ -1,5 +1,5 @@
 ### Seja bem vindo ao meu Github (ipseitycode)
-Acompanhe meus repositories, commits, stories de desenvolvimento web e atualizacoes de status!‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+Acompanhe meus repositories, commits e atualizacoes de status!‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="35" width="35" src="https://github.com/user-attachments/assets/5c2c57ef-abff-4744-a2d9-a763538bd155">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
