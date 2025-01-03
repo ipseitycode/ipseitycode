@@ -21,7 +21,7 @@ Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse per
   <a href="https://www.youtube.com/@IpseityCode" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/cauan-gomes-aa40622ba/" target="_blank">
+  <a href="https://www.linkedin.com/in/ipseitycode" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cauandeveloper@gmail.com">
