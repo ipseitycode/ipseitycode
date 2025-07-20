@@ -1,13 +1,40 @@
-### Seja bem vindo ao meu Github (ipseitycode)
-Acompanhe meus repositories, commits e atualizacoes de status!‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+```js
+import Developer from "Ipseitycode";
+
+class AboutMe extends Developer {
+  name = "Kauan Gomes";
+  area = "Web Development";
+  work = "BusQe Brasil";
+  local = "Remote";
+}
+```
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é Kauan
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="35" width="35" src="https://github.com/user-attachments/assets/5c2c57ef-abff-4744-a2d9-a763538bd155">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
+
+### Experiência de trabalho
+
+<img align="left" height="94px" width="94px" user-select="none" outline="none" alt="Warpnet" src="https://i.pinimg.com/736x/f9/e3/a0/f9e3a01572202abee3b6df05433b2d41.jpg"/>
+
+**Software Developer (Full-Stack)** \
+**BusQe Brasil** • Part-time \
+Languages & Technologies: `PHP`, `Python`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Laravel`, `Django`\
+December (2022) - To date\
+<br/>
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipseitycode&show_icons=true&theme=blue_navy)<br/>
 
