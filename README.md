@@ -24,25 +24,12 @@ Dezembro (2022) - Ate o momento\
 <br/>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-### ⚙️ GitHub Analytics
-
-<p align="start">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+### GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true)
 
----
-
-Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse periodo, mas voce pode adicionar a sua propria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+> [!NOTE]
+> Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse periodo, mas voce pode adicionar a sua propria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <hr />
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
