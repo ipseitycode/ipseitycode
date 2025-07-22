@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu GitHub (ipseitycode)
+## 🐈‍⬛ Seja bem vindo ao meu GitHub (ipseitycode)
 
 Olá, sou Desenvolvedor Web Full-Stack, atuando há três anos na criação de soluções digitais robustas e escaláveis. Atualmente, trabalho na BusQe Brasil, contribuindo no desenvolvimento de soluções web orientadas aos objetivos dos clientes.\
 Te convido a acompanhar meus repositories, commits e atualizacoes de status!
