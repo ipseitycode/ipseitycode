@@ -12,6 +12,8 @@ Te convido a acompanhar meus repositories, commits e atualizacoes de status!
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
+<hr />
+
 ### Experiência de trabalho
 
 <img align="left" height="94px" width="94px" user-select="none" outline="none" alt="Warpnet" src="https://i.pinimg.com/736x/f9/e3/a0/f9e3a01572202abee3b6df05433b2d41.jpg"/>
@@ -24,6 +26,8 @@ Dezembro (2022) - Ate o momento\
 <br/>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
+<hr />
+
 ### GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true)
@@ -32,22 +36,18 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
 > Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse periodo, mas voce pode adicionar a sua propria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <hr />
+
+### Contato
 <div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="https://www.instagram.com/_kauangmss/" target="_blank">
     <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="https://www.youtube.com/@IpseityCode" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="https://www.linkedin.com/in/ipseitycode" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="mailto:cauandeveloper@gmail.com">
     <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
