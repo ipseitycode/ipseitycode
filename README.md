@@ -36,15 +36,20 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
   <a href="https://www.instagram.com/_kauangmss/" target="_blank">
     <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="https://www.youtube.com/@IpseityCode" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="https://www.linkedin.com/in/ipseitycode" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="mailto:cauandeveloper@gmail.com">
     <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 </div>
-
       
