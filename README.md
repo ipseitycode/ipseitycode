@@ -32,7 +32,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
 > Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse periodo, mas voce pode adicionar a sua propria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <hr />
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
   <a href="https://www.instagram.com/_kauangmss/" target="_blank">
     <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -47,3 +47,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
   </a>
 </div>
 
+      
