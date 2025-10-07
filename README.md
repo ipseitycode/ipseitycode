@@ -1,15 +1,16 @@
 ## 🐈‍⬛ Seja bem vindo ao meu GitHub (ipseitycode)
 
-Olá, sou Desenvolvedor Web Full-Stack, atuando há três anos na criação de soluções digitais robustas e escaláveis. Atualmente, trabalho na BusQe Brasil, contribuindo no desenvolvimento de soluções web orientadas aos objetivos dos clientes.\
+Olá, sou Desenvolvedor Web, atuando há três anos na criação de soluções digitais robustas e escaláveis. Atualmente, trabalho na BusQe Brasil, contribuindo no desenvolvimento de soluções web orientadas aos objetivos dos clientes.\
 Te convido a acompanhar meus repositories, commits e atualizacoes de status!
 
 ### Linguagens & Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="45" width="55" src="https://github.com/user-attachments/assets/5c2c57ef-abff-4744-a2d9-a763538bd155">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div><br>
 
 ### Experiência de trabalho
