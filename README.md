@@ -19,7 +19,7 @@ Te convido a acompanhar meus repositories, commits e atualizacoes de status!
 
 **Desenvolvedor de Software (Full-Stack)** \
 **BusQe Brasil** • Meio periodo \
-Linguagens & Tecnologias: `PHP`, `Python`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Laravel`, `Django`\
+Linguagens & Tecnologias: `PHP`, `Python`, `HTML`, `CSS`, `Bootstrap`, `Laravel`\
 Dezembro (2022) - Ate o momento\
 <br/>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
