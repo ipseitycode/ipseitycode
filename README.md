@@ -1,5 +1,17 @@
 ## 🐈‍⬛ Seja bem vindo ao meu GitHub (ipseitycode)
 
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHWeeduoUia5Q/profile-displaybackgroundimage-shrink_350_1400/B4DZl82XW5IYAc-/0/1758736250866?e=1762387200&v=beta&t=2uU01E4QZJ_4jQZhlhjVa7q-K6-3xY-B6xvFrsMdafg)
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Kauan+Gomes;Backend+Developer+passionate+about+tech;Always+learning+and+building+new+things" 
+    alt="Typing SVG" 
+  /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="100" />
+</div>
+<br>
+
+
+
 Olá, sou Desenvolvedor Web, atuando há três anos na criação de soluções digitais robustas e escaláveis. Atualmente, trabalho na BusQe Brasil, contribuindo no desenvolvimento de soluções web orientadas aos objetivos dos clientes.\
 Te convido a acompanhar meus repositories, commits e atualizacoes de status!
 
