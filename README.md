@@ -6,7 +6,7 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Kauan+Gomes;Backend+Developer+passionate+about+tech;Always+learning+and+building+new+things" 
     alt="Typing SVG" 
-  /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="100" />
+  />
 </div>
 <br>
 
