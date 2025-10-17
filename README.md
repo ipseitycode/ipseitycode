@@ -39,10 +39,14 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
 
 ### GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true)
+<div align="start">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact"/>
+</div>
 
-[![ipseitycode](https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipseitycode&theme=minimal&radius=16" width="100%"/>
+</div>
 
 <p align="start">
   <a
