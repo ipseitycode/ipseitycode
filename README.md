@@ -39,9 +39,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
 
 ### GitHub Analytics
 
-<div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact"/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact"/>
 </div>
 
 <div align="center">
