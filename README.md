@@ -1,14 +1,18 @@
-## 🐈‍⬛ Seja bem vindo ao meu GitHub (ipseitycode)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipseitycode/ipseitycode/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ipseitycode/ipseitycode/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ipseitycode/ipseitycode/output/pacman-contribution-graph.svg">
+</picture>
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHWeeduoUia5Q/profile-displaybackgroundimage-shrink_350_1400/B4DZl82XW5IYAc-/0/1758736250866?e=1762387200&v=beta&t=2uU01E4QZJ_4jQZhlhjVa7q-K6-3xY-B6xvFrsMdafg)
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Kauan+Gomes;Backend+Developer+passionate+about+tech;Always+learning+and+building+new+things" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+(Ipseitycode);I+am+Kauan+Gomes;+Always+learning+and+building+new+things" 
     alt="Typing SVG" 
   />
 </div>
 <br>
+
 
 
 
@@ -23,6 +27,8 @@ Te convido a acompanhar meus repositories, commits e atualizacoes de status!
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="Sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Myql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div><br>
 
 ### Experiência de trabalho
@@ -39,16 +45,13 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
 
 ### GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact"/>
+<div align="left">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ipseitycode&show_icons=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipseitycode&theme=minimal&radius=16" width="100%"/>
-</div>
 
-<p align="start">
+<p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
@@ -64,27 +67,15 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ipseitycode/) p
 > Pessoal que veio atras do Github Stats: a API provavelmente saiu do ar nesse periodo, mas voce pode adicionar a sua propria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 
-### Contato
-<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
-  <div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
-    <a href="https://www.instagram.com/_kauangmss/" target="_blank">
-      <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
-    <a href="https://www.youtube.com/@IpseityCode" target="_blank">
-      <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
-    <a href="https://www.linkedin.com/in/ipseitycode" target="_blank">
-      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center;">
-    <a href="mailto:cauandeveloper@gmail.com">
-      <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipseitycode&theme=minimal&radius=16" width="100%"/>
 </div>
-      
+
+<div align="center">
+  
+  [![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@IpseityCode)
+  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_kauangmss/)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ipseitycode)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:cauandeveloper@gmail.com)
+  
+</div>
