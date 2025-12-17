@@ -17,7 +17,7 @@
   
   ## 🤖 Who am I?
 
-Hi, I'm a web developer, working for three years creating robust and scalable digital solutions. Currently, I work at BusQe Brasil, contributing to the development of web solutions geared towards client objectives. I invite you to follow my repositories, commits, and status updates!
+Hi, i am a Web developer with 4 years of experience building robust and scalable web solutions. Currently working at BusQe Brasil, contributing to the development of web applications aligned with business goals. Feel free to explore my repositories, commits, and ongoing projects.
 
 </div>
 
