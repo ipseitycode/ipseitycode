@@ -55,8 +55,6 @@ Hi, i am a Web developer with 4 years of experience building robust and scalable
   </a>
 </p>
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ipseitycode&theme=minimal&radius=16" width="100%"/>
   
 </div>
 
