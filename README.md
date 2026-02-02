@@ -27,7 +27,6 @@ Hi, i am a Web developer with 4 years of experience building robust and scalable
   ## 🚀 Languages ​​& Technologies
   
   <img align="center" alt="PHP" height="45" width="55" src="https://github.com/user-attachments/assets/5c2c57ef-abff-4744-a2d9-a763538bd155">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
