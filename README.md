@@ -7,7 +7,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+(Ipseitycode);I+am+Kauan+Gomes;+Always+learning+and+building+new+things" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+(Ipseitycode);I+am+Cauan+Gomes;+Always+learning+and+building+new+things" 
     alt="Typing SVG" 
   />
 </div>
