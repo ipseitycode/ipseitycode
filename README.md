@@ -47,13 +47,6 @@ Hi, i am a Web developer with 4 years of experience building robust and scalable
   <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipseitycode&layout=compact"/>
 </div>
 <br>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ipseitycode&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-  </a>
-</p>
-<br>
   
 </div>
 
