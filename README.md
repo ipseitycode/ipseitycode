@@ -60,11 +60,11 @@ Hi, i am a Backend Developer with 3+ years of experience building REST APIs, rob
 
 <br>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipseitycode&theme=nord" alt="ipseitycode" /></a> 
   </p>
-</div>
+</div> -->
 
 </div>
 
